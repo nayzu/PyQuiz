@@ -1,4 +1,4 @@
-# PyQuiz
+# ⚾ PyQuiz
 
 PyQuiz is a simple python quiz made in about fifteen minutes.
 
